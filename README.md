@@ -1,1 +1,1 @@
-## allow the git
+## allow the git master
